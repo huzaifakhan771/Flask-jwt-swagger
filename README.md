@@ -13,6 +13,8 @@
 *http://127.0.0.1:4444/docs*
 > Swagger API documentation for an endpoint with dummy data
 
+
+## Usage Notes
 * Create a virtual enviroment with python 3.6.9.
 * Install dependencies with `pip install -r requirements.txt`
 * config file "db.yaml" and mysql db file not present in the repository
