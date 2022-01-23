@@ -1,0 +1,17 @@
+apispec==5.1.1
+apispec-webframeworks==0.5.2
+click==8.0.3
+dataclasses==0.8
+Flask==2.0.2
+Flask-MySQLdb==0.2.0
+importlib-metadata==4.8.3
+itsdangerous==2.0.1
+Jinja2==3.0.3
+MarkupSafe==2.0.1
+marshmallow==3.14.1
+mysqlclient==2.1.0
+PyJWT==1.7.1
+PyYAML==6.0
+typing_extensions==4.0.1
+Werkzeug==2.0.2
+zipp==3.6.0
