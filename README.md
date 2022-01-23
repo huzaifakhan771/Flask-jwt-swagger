@@ -7,6 +7,9 @@ This repository contains a simple flask app with jwt authentication implemented 
 *http://127.0.0.1:4444/*
 > main page with a simple login form that checks whether the credentials are present in the db
 
+*http://127.0.0.1:4444/register*
+> account registration page that inserts credentials into the db. Duplicate usernames are handled
+
 *http://127.0.0.1:4444/login*
 > page for jwt authentication. Username and Password is checking against db, and a token is provided on successful authentication
 
