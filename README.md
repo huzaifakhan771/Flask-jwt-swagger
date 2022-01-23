@@ -13,7 +13,7 @@ This repository contains a simple flask app with jwt authentication implemented 
 *http://127.0.0.1:4444/login*
 > page for jwt authentication. Username and Password is checking against db, and a token is provided on successful authentication
 
-*http://127.0.0.1:4444/todo?token=[inserttokenhere]*
+*http://127.0.0.1:4444/todo?token=inserttokenhere*
 > api endpoint containing the `token_required` decorator, forcing it to only be accessed if the jwt token is provided.
 
 *http://127.0.0.1:4444/docs*
