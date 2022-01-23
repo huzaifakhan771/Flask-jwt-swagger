@@ -1,7 +1,7 @@
 # Flask-jwt-swagger
 ## Flask app using jwt and swagger API documentation
 
-### This repository contains a simple flask app with jwt authentication implemented on an endpoint, as well as the swagger API documentation on a sample endpoint
+This repository contains a simple flask app with jwt authentication implemented on an endpoint, as well as the swagger API documentation on a sample endpoint
 
 
 *http://127.0.0.1:4444/*
