@@ -17,7 +17,7 @@ This repository contains a simple flask app with jwt authentication implemented 
 > api endpoint containing the `token_required` decorator, forcing it to only be accessed if the jwt token is provided.
 
 *http://127.0.0.1:4444/docs*
-> Swagger API documentation for an endpoint with dummy data
+> Swagger API documentation for an endpoint `todo` with dummy data
 
 
 ## Usage Notes
